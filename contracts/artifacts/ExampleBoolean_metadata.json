@@ -7,12 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "ourString",
+				"name": "myBool",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "bool",
 						"name": "",
-						"type": "string"
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -21,12 +21,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "string",
-						"name": "_updateString",
-						"type": "string"
+						"internalType": "bool",
+						"name": "_myBool",
+						"type": "bool"
 					}
 				],
-				"name": "updateOurString",
+				"name": "setMyBool",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract.sol": "MyContract"
+			"contracts/ExampleBoolean.sol": "ExampleBoolean"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +59,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/MyContract.sol": {
-			"keccak256": "0x2d2b6c4e9b7bc4faf3d2d7662c442c76183d831738fe5877c8488be288136c8d",
-			"license": "MIT",
+		"contracts/ExampleBoolean.sol": {
+			"keccak256": "0x0cfd1a2a3b032884021fbe88725c3161eba1bf29564a47fba1ea1bb97a30f1f3",
 			"urls": [
-				"bzz-raw://75abacfb50533fbb7651e70a328c7d1053b5955f68269096140bd900588f53cd",
-				"dweb:/ipfs/QmRpsGYZxLTuejkrpbH7ikcZSGM2oBTGJFMuz6zUyftyfi"
+				"bzz-raw://b0b8b742771b6aface1d90523e19bc87f735098365b13cda56271cae388bdedb",
+				"dweb:/ipfs/QmQT2YLSxzyYTPq4ggFRjTEyxSuQfcJR2GBPAx7aLvuCmf"
 			]
 		}
 	},
