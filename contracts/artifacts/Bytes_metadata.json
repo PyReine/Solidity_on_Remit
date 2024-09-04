@@ -64,7 +64,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Bytes.sol": "Strings"
+			"contracts/Bytes.sol": "Bytes"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -79,10 +79,10 @@
 	},
 	"sources": {
 		"contracts/Bytes.sol": {
-			"keccak256": "0x564ae254a8c1c956728e7e7853a069b0d39d7fbf8e444f38cc4a877d178cee6e",
+			"keccak256": "0xf4f44b88f7b9b83edcb1dd028847952e2abfe43e33aa127276c15745e08fc01e",
 			"urls": [
-				"bzz-raw://86f461c204ec9f3fa496da38999a711181d1f3092a8f381e2d8378b181f52082",
-				"dweb:/ipfs/QmdBud2n7utvqWPX6kribrvLEENVWy5hrzqiP3d2oHDgMm"
+				"bzz-raw://52cfa552431b019bcb7ac3bdcdbe811e748632ec6b2b17d62096bf7654617d02",
+				"dweb:/ipfs/QmNsGifs5a9ZeBg6Z7Fh8NFRu1UbinbJqRT1L3zzfe3kGC"
 			]
 		}
 	},
