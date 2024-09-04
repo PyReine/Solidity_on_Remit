@@ -26,6 +26,32 @@
 			},
 			{
 				"inputs": [],
+				"name": "getBytesLength",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myBytes",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "myString",
 				"outputs": [
 					{
@@ -64,7 +90,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Bytes.sol": "Strings"
+			"contracts/Bytes.sol": "BytesExample"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -79,10 +105,10 @@
 	},
 	"sources": {
 		"contracts/Bytes.sol": {
-			"keccak256": "0x564ae254a8c1c956728e7e7853a069b0d39d7fbf8e444f38cc4a877d178cee6e",
+			"keccak256": "0x5fe031450fb53a30284233d378c28aca1f2c76dd41c0fb50571e7d2b63eba273",
 			"urls": [
-				"bzz-raw://86f461c204ec9f3fa496da38999a711181d1f3092a8f381e2d8378b181f52082",
-				"dweb:/ipfs/QmdBud2n7utvqWPX6kribrvLEENVWy5hrzqiP3d2oHDgMm"
+				"bzz-raw://fe959f2711d57ba32e3bfe5f6e4f7da5b2593c85e8f94760438c38403a4f0215",
+				"dweb:/ipfs/QmXpn6Wdi5gmscWhBc4ygNCNWejcPAVp9dh1RkgdLunNjN"
 			]
 		}
 	},
