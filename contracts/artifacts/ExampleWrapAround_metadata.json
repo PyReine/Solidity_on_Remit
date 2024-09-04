@@ -14,29 +14,9 @@
 			},
 			{
 				"inputs": [],
-				"name": "incrementInt",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "incrementUint8",
 				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "myInt",
-				"outputs": [
-					{
-						"internalType": "int256",
-						"name": "",
-						"type": "int256"
-					}
-				],
-				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -92,7 +72,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SafeMath.sol": "ExampleUint"
+			"contracts/SafeMath.sol": "ExampleWrapAround"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -107,10 +87,10 @@
 	},
 	"sources": {
 		"contracts/SafeMath.sol": {
-			"keccak256": "0x3833554045073dd9b56a24336a2dda287cd6ec1fb1e9602faa24a7645af647af",
+			"keccak256": "0xf2b099ab1d0345162946965b58f14c233560ad60135432e8220bc29b4d073c1e",
 			"urls": [
-				"bzz-raw://3d422bae9ceba705625a75a74bfd3168d3f4cfaa72f9a5ec5680d7ad0738767e",
-				"dweb:/ipfs/QmP2dNfVowotxvWhLbbYQKANq3fgvDqZtR39xvAsM2u1aU"
+				"bzz-raw://ce46f0fbbca80615d6e67cfa792616b00cbb983ff3b99fac1199f7fed974f663",
+				"dweb:/ipfs/Qmf9UhkYPxAPPmUgdJRfy6vLcUQHm9aGsFfavt82SCo6NE"
 			]
 		}
 	},

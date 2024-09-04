@@ -92,7 +92,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SafeMath.sol": "ExampleUint"
+			"contracts/SafeMath.sol": "ExampleWrap"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -107,10 +107,10 @@
 	},
 	"sources": {
 		"contracts/SafeMath.sol": {
-			"keccak256": "0x3833554045073dd9b56a24336a2dda287cd6ec1fb1e9602faa24a7645af647af",
+			"keccak256": "0xe77be87499b85ef17bed629ad6ff1ba1aea505c8e087c3dd106c26b652f47805",
 			"urls": [
-				"bzz-raw://3d422bae9ceba705625a75a74bfd3168d3f4cfaa72f9a5ec5680d7ad0738767e",
-				"dweb:/ipfs/QmP2dNfVowotxvWhLbbYQKANq3fgvDqZtR39xvAsM2u1aU"
+				"bzz-raw://14e5b8cec445398d89653161e4da8c95f89ac59407623e0e444f7d843f5e9691",
+				"dweb:/ipfs/QmcsuXsfyZuqNCpfFquxxphjMtXidMyDqhMuyEsnEjYU2R"
 			]
 		}
 	},
