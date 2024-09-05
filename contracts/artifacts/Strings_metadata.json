@@ -64,7 +64,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Bytes.sol": "Strings"
+			"contracts/Strings.sol": "Strings"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -78,7 +78,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Bytes.sol": {
+		"contracts/Strings.sol": {
 			"keccak256": "0x564ae254a8c1c956728e7e7853a069b0d39d7fbf8e444f38cc4a877d178cee6e",
 			"urls": [
 				"bzz-raw://86f461c204ec9f3fa496da38999a711181d1f3092a8f381e2d8378b181f52082",
