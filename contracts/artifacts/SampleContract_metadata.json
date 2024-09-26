@@ -28,7 +28,7 @@
 				],
 				"name": "updateString",
 				"outputs": [],
-				"stateMutability": "payable",
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Payable.sol": "SampleContract"
+			"contracts/SampleContract.sol": "SampleContract"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,11 +59,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Payable.sol": {
-			"keccak256": "0xe6045f44b1efead28eed0a73de75c3a3a527d0007d48a67ca92994631c22a58a",
+		"contracts/SampleContract.sol": {
+			"keccak256": "0xdbfa3d27fc46fae18c4720f4fe749a6740f7e15ea15ef92ab3e4379d73698079",
 			"urls": [
-				"bzz-raw://73f020b539bd47b458e93fc5949b4528c5f91c7321c4030f309456e04c6f1320",
-				"dweb:/ipfs/Qmer9wN3EX9aa9e2Uu8JpVHUdFngwNi94QCASrqXMSrra2"
+				"bzz-raw://1a3ed5978cc09e6ca78c7b9bd238278ed1369770d54f5ddbaade97964c740b60",
+				"dweb:/ipfs/QmTwveigzaqQZPAvWn6BZ5wBX7ycqn5R4PHXCMosyxLNci"
 			]
 		}
 	},
